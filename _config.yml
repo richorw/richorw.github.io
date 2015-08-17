@@ -13,6 +13,8 @@ links:
     url:          /shima
   - name:         MOOD
     url:          /mood
+  - name:         WORD
+    url:          /word
   - name:         WORK
     url:          /work
   - name:         ABOUT

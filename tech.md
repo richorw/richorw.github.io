@@ -3,4 +3,8 @@ layout: page
 title: Tech
 ---
 
-What I learn.
+不再满足于理解技术。
+
+想学会它们。
+
+---
