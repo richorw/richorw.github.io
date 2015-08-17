@@ -1,23 +1,23 @@
 title:            Holzwege
 description:      Personal blog of Richor.
-url:              # Site url.
-signoff:          # Your name.
+url:              richor.me
+signoff:          Richor
 disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
 facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
 google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
 
 links:
-  - name:         TECH
+  - name:         技术
     url:          /tech
-  - name:         SHIMA
+  - name:         岛风
     url:          /shima
-  - name:         MOOD
+  - name:         情绪
     url:          /mood
-  - name:         WORD
+  - name:         句子
     url:          /word
-  - name:         WORK
+  - name:         作品
     url:          /work
-  - name:         ABOUT
+  - name:         关于
     url:          /about
 highlighter:      pygments
 permalink:        pretty
