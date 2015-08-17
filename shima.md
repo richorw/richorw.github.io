@@ -1,5 +1,5 @@
 ---
 layout: page
-title: SHIMA
+title: 岛风
 ---
 千の風のように
