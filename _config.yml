@@ -7,17 +7,16 @@ facebook_appid:   # appid for like button, remove from /_includes/share.html if 
 google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
 
 links:
-  - name:         Tech
+  - name:         TECH
     url:          /tech
-  - name:         Shima
+  - name:         SHIMA
     url:          /shima
-  - name:         Moods
-    url:          /moods
-  - name:         Me
+  - name:         MOOD
+    url:          /mood
+  - name:         WORK
+    url:          /work
+  - name:         About
     url:          /about
-  - name:         GitHub
-    url:          http://github.com/richorw
-    external:     true
 highlighter:      pygments
 permalink:        pretty
 markdown:         redcarpet
