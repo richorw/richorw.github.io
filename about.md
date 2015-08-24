@@ -20,7 +20,7 @@ Richor
 
 原子世界：
 
-XXXX.XX - 2015.09 @Shanghai
+Born - 2015.09 @Shanghai
 
 2015.09 - 2016.09 @Tokyo
 
@@ -28,28 +28,20 @@ XXXX.XX - 2015.09 @Shanghai
 
 比特世界：
 
-[豆瓣](http://www.douban.com/people/richor/)
+[豆瓣](http://www.douban.com/people/richor/) 自言自语的活跃分子。
 
-[知乎](http://www.zhihu.com/people/richorzhihu)
+[知乎](http://www.zhihu.com/people/richorzhihu) 喜欢看，懒得写。
 
-[Instagram](https://instagram.com/richorrr/)
+[Twitter](https://twitter.com/richor_w) 大V stalker ，活动较少。
 
-[GitHub](https://github.com/richorw)
+[Facebook](https://www.facebook.com/richorw) 三次元都是反动派!
 
-[Twitter](https://twitter.com/richor_w)
-
-[Facebook](https://www.facebook.com/richorw)
-
-[Email](mailto:richor.gm@gmail.com)
+[Email](mailto:richor.gm@gmail.com) richor.gm # gmail.com
 
 ---
 
 朋友们：
 
-[LAWXXY](http://www.pigsays.com/)
+[LAWXXY](http://www.pigsays.com/) 想创业的法学生
 
-想创业的法学生
-
-[Quiet Shu](http://quietshu.github.io/)
-
-More than a geek.
+[Quiet Shu](http://quietshu.github.io/) More than a geek.
