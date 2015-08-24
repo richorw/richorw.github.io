@@ -3,19 +3,14 @@ layout: page
 title: Moods
 ---
 
-一切艺术源自情感。
-
-一切情感归于艺术。
+一些微不足道的情绪。
 
 ---
 
-###书评
+[澎湃之后](http://richor.me/2014/08/11/after_the_paper/)
 
-[抽象的具象](http://richor.me/2015/06/07/representationalism-in-abstract-art/)
+[盈盈一水间，脉脉不得语](http://richor.me/2014/08/08/tanabata/)
 
-###影评
+[白事流水账](http://richor.me/2014/02/03/funeral/)
 
-[上帝的絮语](http://richor.me/2015/05/06/cries-and-whispers/)
-
-###展评
-[匠影](http://richor.me/2014/10/15/delicate-photography/)
+[外婆](http://richor.me/2014/02/05/grandma/)

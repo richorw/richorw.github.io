@@ -41,3 +41,13 @@ XXXX.XX - 2015.09 @Shanghai
 [Facebook](https://www.facebook.com/richorw)
 
 [Email](mailto:richor.gm@gmail.com)
+
+---
+
+朋友们：
+
+[LAWXXY](http://www.pigsays.com/)
+> 想创业的法学生
+
+[Quiet Shu](http://quietshu.github.io/)
+> More than a geek.

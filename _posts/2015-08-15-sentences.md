@@ -1,6 +1,8 @@
 ---
-layout: page
-title: Words
+layout: post
+title: 句子
+date: 2015-08-15
+disqus: y
 ---
 
 组成世界观的一些句子。
@@ -44,3 +46,17 @@ title: Words
 > 例えば税金、年金、保険、医療制度、給与システム、みんな頭のいいやつがわざとわかりにくくして、ろくにしらべもしない、頭の悪いやつから多く取ろうという仕組みにしている。つまりおまえらみたいに、頭お使わず、面倒くさがってばかりいやつらは、一生だまされて、高い金払わされつつける。　
 
 > 賢いやつはだまされずに得して勝つ、バカは騙されて損して負けつつける、これが今の世の中の仕組みだ。だからおまえら、だまされたくなかったら、損して負けたくなかったら、おまえら勉強しろ！
+
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES * * */
+    var disqus_shortname = 'richor';
+    
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>

@@ -11,10 +11,10 @@ links:
     url:          /tech
   - name:         岛风
     url:          /shima
+  - name:         艺术
+    url:          /art
   - name:         情绪
     url:          /mood
-  - name:         句子
-    url:          /word
   - name:         作品
     url:          /work
   - name:         关于
