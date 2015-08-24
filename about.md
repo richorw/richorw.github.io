@@ -47,7 +47,9 @@ XXXX.XX - 2015.09 @Shanghai
 朋友们：
 
 [LAWXXY](http://www.pigsays.com/)
-> 想创业的法学生
+
+想创业的法学生
 
 [Quiet Shu](http://quietshu.github.io/)
-> More than a geek.
+
+More than a geek.
