@@ -44,4 +44,4 @@ Born - 2015.09 @Shanghai
 
 [LAWXXY](http://www.pigsays.com/) 想创业的法学生
 
-[Quiet Shu](http://quietshu.github.io/) More than a geek.
+[Quiet Shu](http://quietshu.github.io/) Hacker and Painter
