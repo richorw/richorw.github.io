@@ -14,3 +14,5 @@ title: Moods
 [白事流水账](http://richor.me/2014/02/03/funeral/)
 
 [外婆](http://richor.me/2014/02/05/grandma/)
+
+[我一生的故事](http://richor.me/2015/09/03/my-lifelong-story/)

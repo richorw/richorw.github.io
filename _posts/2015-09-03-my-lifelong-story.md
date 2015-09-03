@@ -1,9 +1,10 @@
 ---
 title: 我一生的故事
-layout: posts
+layout: post
 date: 2015-09-03 08:00
 disqus: y
 ---
+
 
 5 点多迷迷糊糊醒过来，莫名流了几滴眼泪，泪水三三两两滚过脸颊，淌在枕巾上。
 
