@@ -5,7 +5,7 @@ layout: post
 discus: y
 ---
 
-
+<embed src="http://www.xiami.com/widget/0_1122123/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed>
 
 第一次知道 Bred Victor 是一年多前吧，得知的契机已不大记得了，留在脑海里的只有那个[别致的 worrydream ](http://worrydream.com/)和 talk 里面惊艳四方的 demo。
 
@@ -34,6 +34,7 @@ What is your principle.
 自己只是呆呆地坐在地毯上，头重重靠在床沿，寒气慢慢从脚底蔓延开来。嘴里蹦出好几个词语，从中文到英文到日文，最后也全然吞了回去。抱住枕头撒了一顿气。
 
 --
+
 白板上假惺惺地一直写着「设计」和「日语」两个词，配上一两句鸡汤，仿佛自己看见就能开始干活一样。
 
 周末想了一两个可行的自我练习项目，画了两页草稿，打开 PS 摆弄了两下，没什么灵感，然后没了执行的动力。
@@ -51,6 +52,7 @@ What is your principle.
 Pessimistic 至此，自觉难捱，却与谁人说。
 
 --
+
 其实本来是想说，刚刚看的 talk 让我多少拾回了一些许久未曾触碰到的热情。高中语文老师曾评价我 cool as a cucumber，然其口中哈姆雷特般的延宕竟也发生在了我身上。有在焦虑中不断确定自己的热情所指，界限所在，所以现在能做的是让自己尽快卷入一些正确的事情中去，try to fight for something.
 
 不对，是有趣的事情。
