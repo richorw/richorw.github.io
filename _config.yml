@@ -7,21 +7,15 @@ facebook_appid:   # appid for like button, remove from /_includes/share.html if 
 google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
 
 links:
-  - name:         技术
-    url:          /tech
-  - name:         岛风
-    url:          /shima
-  - name:         艺术
-    url:          /art
-  - name:         情绪
-    url:          /mood
-  - name:         作品
+  - name:         写字
+    url:          /
+  - name:         设计
     url:          /work
   - name:         关于
     url:          /about
 highlighter:      pygments
 permalink:        pretty
-markdown:         redcarpet
+markdown:         kramdown
 redcarpet:
   extensions:
     - smart

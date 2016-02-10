@@ -30,11 +30,11 @@ Born - 2015.09 @Shanghai
 
 [豆瓣](http://www.douban.com/people/richor/) 自言自语的活跃分子。
 
+[Twitter](https://twitter.com/richor_w) 日英中混杂，和世界保持联系的唯一方式。
+
 [知乎](http://www.zhihu.com/people/richorzhihu) 喜欢看，懒得写。
 
-[Twitter](https://twitter.com/richor_w) 大V stalker ，活动较少。
-
-[Facebook](https://www.facebook.com/richorw) 三次元都是反动派!
+[Telegram](http://telegram.me/richor) Drop me a line with it if you want : )
 
 [Email](mailto:richor.gm@gmail.com) richor.gm # gmail.com
 
