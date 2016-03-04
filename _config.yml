@@ -13,7 +13,7 @@ links:
     url:          /work
   - name:         关于
     url:          /about
-highlighter:      pygments
+highlighter:      rouge
 permalink:        pretty
 markdown:         kramdown
 redcarpet:
