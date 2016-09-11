@@ -3,45 +3,45 @@ layout: page
 title: About
 ---
 
+生于东方之极东，热衷于东瀛之东方。某旦新闻学院大五求学中，并去早稻田大学种过一年田，英语日语读写流畅。
 
-一直向往着非日常的生活，愿沉醉在一个又一个浅浅长长的梦里，不愿醒来。
+是个不太安分的人，想要做设计，摄影，编程，做游戏，画漫画，写文章，做翻译，不一而足。
 
-于是在纸醉金迷的消费社会里做了良久的消费豚，消费着各种文字、影像、逻辑、故事和情感而欲罢不能。但每每表达欲如水银泻地般流淌出来的时候，自己总会怯于赋其于形，最后落入一阵虚空。许是宿命所指，抑或只是耽溺于自己的舒适区，总之给自己找了各种各样的借口搪塞过去。
+目前设计是第一要务，其余辅修。设计方向包括平面设计，字体排印，交互设计，有且都有兴趣，向专业主义持续发力中。
 
-想了一阵，终于明白了：「创作」可是个再重要不过的事儿。因为只有以生产者的身份挣扎于这持续坠落的消费世界之中，才有机会创造属于自己的非日常。每天和名为现实的怪物战斗不息，或许才是自己真正想要的生存方式。
-
-于是有了这一块小地方，来盛放我的中二情怀。曾经抱着观察人类的所谓情怀不慎跳入社会科学的坑，现在却发现别的一些东西更吸引我，于是及时脱坑入教，想在这里认真写字、学习、创作，直到未知的某一天。
-
-Richor
-
-2015.08.17
+乐于创造，但首先需要成为一个专业的人。
 
 ---
 
-原子世界：
+Born in the end of eastern, loving all about japan. A five-year undergraduate in Journalism school, Fudan University, Shanghai. Have been to Waseda University for one year, and could read and write English and Japanese.
 
-Born - 2015.09 @Shanghai
+Be eager to do design, photography, programming, indie game, ACG, writing on society, culture and technology, Japanese translating and something else. 
 
-2015.09 - 2016.09 @Tokyo
+Now focus on design, including graphic design, typography and UI design. Trying to train myself to be professional now. 
 
----
+Dream of creating great stuff in the future.
 
-比特世界：
-
-[豆瓣](http://www.douban.com/people/richor/) 自言自语的活跃分子。
-
-[Twitter](https://twitter.com/richor_w) 日英中混杂，和世界保持联系的唯一方式。
-
-[知乎](http://www.zhihu.com/people/richorzhihu) 喜欢看，懒得写。
-
-[Telegram](http://telegram.me/richor) Drop me a line with it if you want : )
-
-[Email](mailto:richor.gm@gmail.com) richor.gm # gmail.com
+まず職人になりましょう。
 
 ---
 
-朋友们：
+Works and contacts are as follows:
 
-[LAWXXY](http://www.pigsays.com/) 想创业的法学生
+[Design Works](http://cargocollective.com/richordesign) 
 
-[Quiet Shu](http://quietshu.github.io/) Hacker and Painter
+[Photography](http://cargocollective.com/richorlens)
+
+[Instagram](https://www.instagram.com/richorw/) 
+
+[Douban](http://www.douban.com/people/richor/) 
+
+[Zhihu](http://www.zhihu.com/people/richorzhihu) 
+
+[Twitter](https://twitter.com/richor_w) 
+
+[Facebook]([Zhihu](http://www.zhihu.com/people/richorzhihu) )
+
+[Telegram](http://telegram.me/richor) 
+
+[Email: richor.gm#gmail.com](mailto:richor.gm@gmail.com) 
+
