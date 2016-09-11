@@ -7,9 +7,9 @@ facebook_appid:   # appid for like button, remove from /_includes/share.html if 
 google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
 
 links:
-  - name:         博客
+  - name:         Blog
     url:          /
-  - name:         关于
+  - name:         About
     url:          /about
 highlighter:      rouge
 permalink:        pretty
