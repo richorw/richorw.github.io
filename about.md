@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-生于东方之极东，热衷于东瀛之东方。某旦新闻学院大五求学中，并去早稻田大学种过一年田，英语日语读写流畅。
+生于东方之极东，热衷于东瀛之东方。求学魔都，然后求生。
 
 是个不太安分的人，想要做设计，摄影，编程，做游戏，画漫画，写文章，做翻译，不一而足。
 
@@ -38,10 +38,6 @@ Works and contacts are as follows:
 [Zhihu](http://www.zhihu.com/people/richorzhihu) 
 
 [Twitter](https://twitter.com/richor_w) 
-
-[Facebook]([Zhihu](http://www.zhihu.com/people/richorzhihu) )
-
-[Telegram](http://telegram.me/richor) 
 
 [Email: richor.gm#gmail.com](mailto:richor.gm@gmail.com) 
 
