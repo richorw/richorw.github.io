@@ -1,12 +1,34 @@
----
-layout: index
----
-
-<ul class="posts">
-  {% for post in site.posts %}
-  <li>
-    <small class="datetime muted" data-time="{{ post.date }}">{{ post.date | date_to_string }} </small>
-    <a href="{{ post.url }}">{{ post.title }}</a>
-  </li>
-  {% endfor %}
-</ul>
+<!DOCTYPE html>
+<html>
+<head>
+	<title>richor.me</title>
+</head>
+<body>
+	<div id="sns">
+		<img class="sns-links" src="/images/ins.svg">
+		<img class="sns-links" src="/images/douban.svg">
+		<img class="sns-links" src="/images/wechat.svg">
+		<img class="sns-links" src="/images/ins.svg">
+	</div>
+	<h1>Richor Wang</h1>
+	<div id="nav">
+		<ul id="nav-list">
+			<li>
+				<a href="/blog">Blog</a>
+			</li>
+			<li>
+				<a href="flaneur.richor.me">Photography</a>
+			</li>
+			<li>
+				<a href="/">Design</a>
+			</li>
+			<li>
+				<a href="/about">About</a>
+			</li>
+		</ul>
+	</div>
+	<div id="meme">
+		<p>My favourite things.</p>
+	</div>
+</body>
+</html>
