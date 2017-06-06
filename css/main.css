@@ -1,0 +1,100 @@
+/*general*/
+
+* {
+	font-family: "Avenir Next", "Segoe UI", "Helvetica Neue", Arial, "Hiragino Sans GB", "PingFang SC", "Heiti SC", "Microsoft YaHei UI", "Microsoft YaHei", "Source Han Sans", sans-serif;
+	letter-spacing: 0.08em;
+}
+
+body {
+	background-color: #FDFFFA;
+}
+
+a {
+	text-decoration: none;
+}
+
+ul {
+	margin: 0;
+	padding: 0;
+}
+
+html, body, .body-wrap {
+	margin: 0;
+	height: 100%;
+
+}
+
+.top-bar {
+	height: 5px;
+	background-color: #8cc63f;
+}
+
+.body-wrap {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+
+.top-sns, .bottom {
+	display: flex;
+	justify-content: space-between;
+}
+
+.bottom {
+	align-items: flex-end;
+	font-size: 12px;
+}
+
+.middle {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	margin-top: -70px;
+}
+
+.title {
+	margin-bottom: 50px;
+}
+
+
+.title img {
+	height: 120px;
+}
+
+.nav-list {
+	display: inline-flex;
+}
+
+.nav-list li {
+	list-style: none;
+	padding: 0 32px;
+}
+
+.nav-item {
+	color: #3A3A3A;
+	opacity: 0.4;
+	font-size: 14px;
+}
+
+.nav-item:hover {
+	opacity: 1;
+	font-weight: 500;
+}
+
+
+
+.links {
+	padding: 10px;
+	opacity: 0.4;
+}
+
+.links:hover {
+	opacity: 1;
+	font-weight: 500;
+}
+
+.candy {
+	opacity: 0.4;
+}
+
