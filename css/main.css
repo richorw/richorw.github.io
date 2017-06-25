@@ -5,6 +5,11 @@
 	letter-spacing: 0.08em;
 }
 
+a::selection, p::selection {
+	background: #8cc63f;
+	color: #FDFFFA;
+}
+
 body {
 	background-color: #FDFFFA;
 }
@@ -12,6 +17,8 @@ body {
 a {
 	text-decoration: none;
 }
+
+
 
 ul {
 	margin: 0;
@@ -94,7 +101,67 @@ html, body, .body-wrap {
 	font-weight: 500;
 }
 
-.candy {
+.footNote {
 	opacity: 0.4;
+}
+
+/*eye*/
+
+#pupilleft {
+  position: relative;
+  background: #3A3A3A;
+  border-radius: 50%;
+}
+
+#eyeleft {
+  position: relative;
+  background: #B6EB63;
+  overflow: hidden;
+  border-radius: 50%;
+  z-index: 9999;
+}
+
+#pupilleft {
+  width: 16px;
+  height: 16px;
+}
+
+#eyeleft {
+  width: 24px;
+  height: 24px;
+  left: 34px;
+  top: 56px;
+}
+
+/*about*/
+
+#wechat-link:hover, #nav-about:hover {
+	cursor: pointer;
+}
+
+#about-text {
+	display: none;
+	width: 50%;
+	font-size: 15px;
+	line-height: 1.8rem;
+	letter-spacing: 0.2rem;
+	text-align: justify;
+}
+
+#about-text a {
+	color: #8cc63f;
+}
+#about-text a:hover {
+	background-color: #8cc63f;
+	color: #FDFFFA; 
+}
+
+/*qrcode*/
+#qrcode {
+	width: 150px;
+	position: absolute;
+	display: none;
+	left: 30px;
+	bottom: 30px;
 }
 
