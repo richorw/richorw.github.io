@@ -5,7 +5,7 @@
 	letter-spacing: 0.08em;
 }
 
-a::selection, p::selection {
+a::selection, p::selection, span::selection {
 	background: #8cc63f;
 	color: #FDFFFA;
 }
@@ -79,13 +79,12 @@ html, body, .body-wrap {
 }
 
 .nav-item {
-	color: #3A3A3A;
-	opacity: 0.4;
+	color: #AEB0AD;
 	font-size: 14px;
 }
 
 .nav-item:hover {
-	opacity: 1;
+	color: #3A3A3A;
 	font-weight: 500;
 }
 
@@ -102,7 +101,7 @@ html, body, .body-wrap {
 }
 
 .footNote {
-	opacity: 0.4;
+	color: #AEB0AD;
 }
 
 /*eye*/
