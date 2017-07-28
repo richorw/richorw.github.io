@@ -12,6 +12,7 @@ a::selection, p::selection, span::selection {
 
 body {
 	background-color: #FDFFFA;
+	-webkit-font-smoothing: antialiased;
 }
 
 a {
@@ -62,15 +63,19 @@ html, body, .body-wrap {
 
 .title {
 	margin-bottom: 50px;
+	padding: 0 20px;
 }
 
 
 .title img {
-	height: 120px;
+	/*height: 120px;*/
+	max-width: 100%;
+	box-sizing: border-box;
 }
 
 .nav-list {
-	display: inline-flex;
+	display: flex;
+	flex-wrap: wrap;
 }
 
 .nav-list li {
@@ -122,15 +127,25 @@ html, body, .body-wrap {
 }
 
 #pupilleft {
-  width: 16px;
-  height: 16px;
+  width: 70%;
+  height: 70%;
 }
 
-#eyeleft {
+#eyeleft {/*
   width: 24px;
   height: 24px;
-  left: 34px;
-  top: 56px;
+  left: 54px;
+  top: 55px;*/
+	position: absolute;
+	width: 5%;
+	height: 19.5%;
+	left: 7.5%;
+	top: 24%;
+}
+
+#richor {
+	display: block;
+	position: relative;
 }
 
 /*about*/
@@ -164,4 +179,40 @@ html, body, .body-wrap {
 	left: 30px;
 	bottom: 30px;
 }
+
+/*responsive*/
+@media screen and (max-width: 490px) {
+	#richor {
+		margin-top: 60px;
+	}
+	.nav-list li {
+		width: 100%;
+		text-align: center;
+		margin-bottom: 24px;
+	}
+	.nav-item {
+		font-size: 18px;
+	}
+	.top-bar {
+		display: none;
+	}
+	body {
+		border: 8px solid #8cc63f;
+		box-sizing: border-box;
+	}
+	.links {
+		height: 24px;
+		padding: 14px;
+	}
+	.footNote {
+		text-align: center; 
+		display: none;
+	}
+	#about-text {
+		width: 84%;
+		margin-top: -40px;
+		letter-spacing: 0;
+	}
+}
+
 

@@ -21,7 +21,7 @@ $(".footNote").text(candy[n]);
 
 //Logo Animation
 $(document).ready (function() {
-	$("a").attr("target", "_blank");
+	$("a:not(#richor)").attr("target", "_blank");
 	// logo 晃动动画
 	// $(".title").mouseover(function() {
 	// 	$(".title").addClass("swing");
@@ -44,9 +44,15 @@ var DrawEye = function(eyecontainer, pupil, eyeposx, eyeposy){
   };
   var distanceThreshold = $(eyecontainer).width()/2 - r;
   var mouseX = 0, mouseY = 0;
+
+  $(window).resize(function () {
+    var bounding = $("#eyeleft")[0].getBoundingClientRect();
+    eyeposx = bounding.left;
+    eyeposy = bounding.top;
+  })
   
   // Listen for mouse movement
-  $(window).mousemove(function(e){ 
+  function onMouseMove(e) {
     var d = {
       x: e.pageX - r - eyeposx - center.x,
       y: e.pageY - r - eyeposy - center.y
@@ -59,22 +65,46 @@ var DrawEye = function(eyecontainer, pupil, eyeposx, eyeposy){
       mouseX = d.x / distance * distanceThreshold + center.x;
       mouseY = d.y / distance * distanceThreshold + center.y;
     }
-  });
+  }
+
+  if (window.innerWidth > 490) {
+    $(window).mousemove(function(e){
+      onMouseMove(e);
+    });
+  } else {
+    var move = function () {
+      var x = ~~(window.innerWidth * Math.random());
+      var y = ~~(window.innerHeight * Math.random());
+      onMouseMove({
+        pageX: x,
+        pageY: y
+      })
+
+      setTimeout(move, 1000 * Math.random() + 500);
+    };
+
+    move();
+  }
   
   // Update pupil location
   var pupil = $(pupil);
   var xp = 0, yp = 0;
   var loop = setInterval(function(){
     // change 1 to alter damping/momentum - higher is slower
-    xp += (mouseX - xp) / 1;
-    yp += (mouseY - yp) / 1;
-    pupil.css({left:xp, top:yp});    
+    xp += (mouseX - xp) / 5;
+    yp += (mouseY - yp) / 5;
+    pupil.css({
+      transform: 'translate(' + xp + 'px, ' + yp + 'px)'
+    });
   }, 1);
 };
 
-// var eyeX = parseInt(document.getElementById("eyeleft").style.left);
-// var eyeY = parseInt(document.getElementById("eyeleft").style.top);
-var pariseye1 = new DrawEye("#eyeleft", "#pupilleft", 440, 264);
+setTimeout(function () {
+  var bounding = $("#eyeleft")[0].getBoundingClientRect();
+  var eyeX = bounding.left;
+  var eyeY = bounding.top;
+  var pariseye1 = new DrawEye("#eyeleft", "#pupilleft", eyeX, eyeY);
+}, 1000);
 
 //about
 $("#nav-about").click(function() {
