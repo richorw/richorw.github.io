@@ -79,6 +79,7 @@ html, body, .body-wrap {
 }
 
 .nav-item {
+	display: inline-block;
 	color: #AEB0AD;
 	font-size: 14px;
 }

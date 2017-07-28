@@ -92,9 +92,9 @@ $("#wechat-link").mouseleave(function() {
 
 //nav animation
 $(".nav-item").mouseenter(function() {
-	$(this).addClass("animated infinite swing");
+	$(this).addClass("animated swing");
 });
 $(".nav-item").mouseleave(function() {
-	$(this).removeClass("animated infinite swing");
+	$(this).removeClass("animated swing");
 });
 
