@@ -2,7 +2,7 @@
 
 * {
 	font-family: "Avenir Next", "Segoe UI", "Helvetica Neue", Arial, "Hiragino Sans GB", "PingFang SC", "Heiti SC", "Microsoft YaHei UI", "Microsoft YaHei", "Source Han Sans", sans-serif;
-	letter-spacing: 0.04em;
+	letter-spacing: 0.03em;
 }
 
 a::selection, p::selection, span::selection {
